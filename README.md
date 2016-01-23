@@ -1,5 +1,6 @@
 # noopy-sample
 Usage of noopy(https://github.com/acuros/noopy)
+
 Deployed on https://qpf9qhl0jk.execute-api.ap-northeast-1.amazonaws.com/prod
 
 ## How to use
