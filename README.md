@@ -1,5 +1,6 @@
 # noopy-sample
 Usage of noopy(https://github.com/acuros/noopy)
+Deployed on https://qpf9qhl0jk.execute-api.ap-northeast-1.amazonaws.com/prod
 
 ## How to use
 1. Before you start, you have to create appropriate role for your lambda function. In this sample, we use a [role with this policy](./sample_exec_role_policy.json) (Learn more in [here](https://docs.aws.amazon.com/lambda/latest/dg/intro-permission-model.html#lambda-intro-execution-role))
